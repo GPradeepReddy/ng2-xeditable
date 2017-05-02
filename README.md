@@ -1,4 +1,6 @@
 # ng2-xeditable
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/valor-software/ng2-xeditable.svg)](https://greenkeeper.io/)
 Easy in place editing for Angular2 apps
 
 ## Placeholder for `ng2-xeditable` angular2 module
